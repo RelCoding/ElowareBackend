@@ -1,0 +1,6 @@
+@ElowareApp_HostAddress = http://localhost:5296
+
+GET {{ElowareApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
